@@ -516,7 +516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fddebaa00cd5c014aa4aa79736ec99dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabToSpawn: {fileID: 8067223905021497988, guid: 072735c1efa91434eafe2e8725ff129f,
+  prefabToSpawn: {fileID: 4919239923845642141, guid: d12dcf3fdb2aaf04f9942e0019039bec,
     type: 3}
   placementIndicator: {fileID: 1164853041}
 --- !u!114 &2082244986
