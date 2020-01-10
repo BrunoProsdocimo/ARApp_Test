@@ -4,16 +4,8 @@ using UnityEngine;
 
 public class Girar : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private void Update()
     {
-        StartCoroutine(GirarCabeca());
-    }
-
-    IEnumerator GirarCabeca()
-    {
-        transform.Rotate(0, 0, 90);
-
-        yield return new WaitForSeconds(0.5f);
+        transform.Rotate(new Vector3(0, 0, Time.deltaTime * 150));
     }
 }
