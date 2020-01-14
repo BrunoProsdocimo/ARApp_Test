@@ -6,6 +6,6 @@ public class Girar : MonoBehaviour
 {
     private void Update()
     {
-        transform.Rotate(new Vector3(0, 0, Time.deltaTime * 150));
+        transform.Rotate(new Vector3(0, Time.deltaTime * 150, 0));
     }
 }

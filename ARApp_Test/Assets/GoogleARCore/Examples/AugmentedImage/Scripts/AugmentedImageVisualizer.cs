@@ -32,6 +32,8 @@ namespace GoogleARCore.Examples.AugmentedImage
     /// </summary>
     public class AugmentedImageVisualizer : MonoBehaviour
     {
+        public GameObject prefabToSpawn;
+
         /// <summary>
         /// The AugmentedImage to visualize.
         /// </summary>
@@ -68,6 +70,7 @@ namespace GoogleARCore.Examples.AugmentedImage
                 FrameLowerRight.SetActive(false);
                 FrameUpperLeft.SetActive(false);
                 FrameUpperRight.SetActive(false);
+                prefabToSpawn.SetActive(false);
                 return;
             }
 
@@ -81,11 +84,15 @@ namespace GoogleARCore.Examples.AugmentedImage
                 (halfWidth * Vector3.left) + (halfHeight * Vector3.forward);
             FrameUpperRight.transform.localPosition =
                 (halfWidth * Vector3.right) + (halfHeight * Vector3.forward);
+            prefabToSpawn.transform.localPosition = transform.position;
+            prefabToSpawn.transform.localRotation = FrameLowerLeft.transform.rotation;
 
             FrameLowerLeft.SetActive(true);
             FrameLowerRight.SetActive(true);
             FrameUpperLeft.SetActive(true);
             FrameUpperRight.SetActive(true);
+            prefabToSpawn.SetActive(true);
+            
         }
     }
 }
