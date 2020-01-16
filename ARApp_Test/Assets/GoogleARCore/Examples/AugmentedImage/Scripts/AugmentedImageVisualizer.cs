@@ -34,6 +34,8 @@ namespace GoogleARCore.Examples.AugmentedImage
     {
         public GameObject prefabToSpawn;
 
+        public GameObject[] prefabsToSpawn;
+
         /// <summary>
         /// The AugmentedImage to visualize.
         /// </summary>
@@ -42,22 +44,22 @@ namespace GoogleARCore.Examples.AugmentedImage
         /// <summary>
         /// A model for the lower left corner of the frame to place when an image is detected.
         /// </summary>
-        public GameObject FrameLowerLeft;
+        /// public GameObject FrameLowerLeft;
 
         /// <summary>
         /// A model for the lower right corner of the frame to place when an image is detected.
         /// </summary>
-        public GameObject FrameLowerRight;
+        /// public GameObject FrameLowerRight;
 
         /// <summary>
         /// A model for the upper left corner of the frame to place when an image is detected.
         /// </summary>
-        public GameObject FrameUpperLeft;
+        /// public GameObject FrameUpperLeft;
 
         /// <summary>
         /// A model for the upper right corner of the frame to place when an image is detected.
         /// </summary>
-        public GameObject FrameUpperRight;
+        /// public GameObject FrameUpperRight;
 
         /// <summary>
         /// The Unity Update method.
@@ -66,14 +68,25 @@ namespace GoogleARCore.Examples.AugmentedImage
         {
             if (Image == null || Image.TrackingState != TrackingState.Tracking)
             {
-                FrameLowerLeft.SetActive(false);
-                FrameLowerRight.SetActive(false);
-                FrameUpperLeft.SetActive(false);
-                FrameUpperRight.SetActive(false);
-                prefabToSpawn.SetActive(false);
+                foreach (GameObject prefab in prefabsToSpawn)
+                {
+                    prefab.SetActive(false);
+                }
+
+                /// FrameLowerLeft.SetActive(false);
+                /// FrameLowerRight.SetActive(false);
+                /// FrameUpperLeft.SetActive(false);
+                /// FrameUpperRight.SetActive(false);
+                /// prefabToSpawn.SetActive(false);
                 return;
             }
 
+            foreach (GameObject prefab in prefabsToSpawn)
+            {
+                prefab.SetActive(true);
+            }
+
+            /*
             float halfWidth = Image.ExtentX / 2;
             float halfHeight = Image.ExtentZ / 2;
             FrameLowerLeft.transform.localPosition =
@@ -86,13 +99,15 @@ namespace GoogleARCore.Examples.AugmentedImage
                 (halfWidth * Vector3.right) + (halfHeight * Vector3.forward);
             prefabToSpawn.transform.localPosition = transform.position;
             prefabToSpawn.transform.localRotation = FrameLowerLeft.transform.rotation;
+            */
 
+            /*
             FrameLowerLeft.SetActive(true);
             FrameLowerRight.SetActive(true);
             FrameUpperLeft.SetActive(true);
             FrameUpperRight.SetActive(true);
             prefabToSpawn.SetActive(true);
-            
+            */
         }
     }
 }

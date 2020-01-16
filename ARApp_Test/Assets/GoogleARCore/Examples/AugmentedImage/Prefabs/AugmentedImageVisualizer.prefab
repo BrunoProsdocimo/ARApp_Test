@@ -32,7 +32,7 @@ Transform:
   - {fileID: 4277606606183526}
   - {fileID: 4668203562779366}
   - {fileID: 4595226678624372}
-  - {fileID: 8987803872296176644}
+  - {fileID: 2599141773060778196}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -525,17 +525,17 @@ PrefabInstance:
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
@@ -545,7 +545,7 @@ PrefabInstance:
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
@@ -555,7 +555,7 @@ PrefabInstance:
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
         type: 3}
@@ -574,7 +574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d12dcf3fdb2aaf04f9942e0019039bec, type: 3}
---- !u!4 &8987803872296176644 stripped
+--- !u!4 &2599141773060778196 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6388665770363233487, guid: d12dcf3fdb2aaf04f9942e0019039bec,
     type: 3}
