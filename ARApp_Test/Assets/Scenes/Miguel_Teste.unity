@@ -402,7 +402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 492cc0813c4064ed79f2671a7c2633fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AugmentedImageVisualizerPrefab: {fileID: -7184307463549326050, guid: 139b08221663c084684a12bc113e95d2,
+  AugmentedImageVisualizerPrefab: {fileID: 6901946779448413742, guid: a3e14493f173fb046a444f31fc2625a3,
     type: 3}
   FitToScanOverlay: {fileID: 876190050}
 --- !u!4 &803205762 stripped

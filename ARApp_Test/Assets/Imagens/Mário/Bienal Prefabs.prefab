@@ -50,6 +50,7 @@ MonoBehaviour:
   prefabsToSpawn:
   - {fileID: 8718234512929815695}
   - {fileID: 4765676631114746620}
+  - {fileID: 7001182499406656158}
 --- !u!1001 &2696975331825124611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -144,6 +145,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4bb092a67d58fed458c12ea3a7d6f3a4, type: 3}
+--- !u!1 &7001182499406656158 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4919239923845642141, guid: 4bb092a67d58fed458c12ea3a7d6f3a4,
+    type: 3}
+  m_PrefabInstance: {fileID: 2696975331825124611}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &9062523849641238988 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6388665770363233487, guid: 4bb092a67d58fed458c12ea3a7d6f3a4,
