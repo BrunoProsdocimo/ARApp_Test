@@ -8,10 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ImageTrackingTest.unity
     guid: eb3a1389445119a4282153b293583793
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Miguel_Teste.unity
     guid: ba42b30a5db16474cb71170549e77625
   m_configObjects: {}
