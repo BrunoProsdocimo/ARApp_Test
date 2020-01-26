@@ -6,10 +6,12 @@ using UnityEngine.EventSystems;
 
 public class TouchInput : MonoBehaviour
 {
+    private Camera cam;
+    private bool selectedImage = default;
+    public ObjReference videoPlayer;
+    // public ObjReference objReference;
     // public GameObject baseImage;
     // public GameObject checkMark;
-    private Camera cam;
-    public ObjReference objReference;
     
 
     private void Start()
@@ -26,6 +28,23 @@ public class TouchInput : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit))
             {
+                if (hit.collider.gameObject != null)
+                {
+
+                    switch (selectedImage)
+                    {
+                        case true:
+                            videoPlayer.checkMarker.SetActive(false);
+                            break;
+                        case false:
+                            videoPlayer.checkMarker.SetActive(true);
+                            break;
+                        default:
+                            break;
+                                
+                    }
+                }
+
                 // If the object the Raycast hit has checkMarker...
                 // checkMarker.SetActive(true);
 
@@ -33,8 +52,4 @@ public class TouchInput : MonoBehaviour
             }
         }
     }
-
-    //public void PlaceCheckMarker (GameObject checkMarker)
-    //{
-    //}
 }

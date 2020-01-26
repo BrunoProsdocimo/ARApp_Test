@@ -4,6 +4,5 @@ using UnityEngine;
 
 public class ObjReference : MonoBehaviour
 {
-    public GameObject baseImage;
     public GameObject checkMarker;
 }
