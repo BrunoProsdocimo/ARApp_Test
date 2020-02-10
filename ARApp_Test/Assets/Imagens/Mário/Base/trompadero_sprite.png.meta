@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: bda19c9c424ac0e499ccb816a33ac474
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7060100677950891405
+    second: trompadero_sprite_0
+  - first:
+      213: 1690890934226185852
+    second: trompadero_sprite_1
+  - first:
+      213: -8945480018801468139
+    second: trompadero_sprite_2
+  - first:
+      213: 1860501424771493751
+    second: trompadero_sprite_3
+  - first:
+      213: -3086615002916967988
+    second: trompadero_sprite_4
+  - first:
+      213: -4929643542820638519
+    second: trompadero_sprite_5
+  - first:
+      213: 5036884194916002755
+    second: trompadero_sprite_6
+  - first:
+      213: -6974481282388314387
+    second: trompadero_sprite_7
+  - first:
+      213: 6727879204487642063
+    second: trompadero_sprite_8
+  - first:
+      213: 4577967501951540247
+    second: trompadero_sprite_9
+  - first:
+      213: -2294380096158822213
+    second: trompadero_sprite_10
+  - first:
+      213: 6157427037179755810
+    second: trompadero_sprite_11
+  - first:
+      213: -3883190923413671622
+    second: trompadero_sprite_12
+  - first:
+      213: 3160654569082813812
+    second: trompadero_sprite_13
+  - first:
+      213: -6112200184691070165
+    second: trompadero_sprite_14
+  - first:
+      213: 3336446774537233162
+    second: trompadero_sprite_15
+  - first:
+      213: -889411171353509986
+    second: trompadero_sprite_16
+  - first:
+      213: -5127030954143623554
+    second: trompadero_sprite_17
+  - first:
+      213: 2016271128219566649
+    second: trompadero_sprite_18
+  - first:
+      213: -6595686941692497119
+    second: trompadero_sprite_19
+  - first:
+      213: -5830523150210904627
+    second: trompadero_sprite_20
+  - first:
+      213: -1832129630705569765
+    second: trompadero_sprite_21
+  - first:
+      213: 1412493046579642651
+    second: trompadero_sprite_22
+  - first:
+      213: -5889821652178668150
+    second: trompadero_sprite_23
+  - first:
+      213: 184131163271873686
+    second: trompadero_sprite_24
+  - first:
+      213: -7304601295174814596
+    second: trompadero_sprite_25
+  - first:
+      213: -831931296645608035
+    second: trompadero_sprite_26
+  - first:
+      213: -5115155212855440269
+    second: trompadero_sprite_27
+  - first:
+      213: 2891402699651531676
+    second: trompadero_sprite_28
+  - first:
+      213: -3137173283345444805
+    second: trompadero_sprite_29
+  - first:
+      213: 3987414930429422219
+    second: trompadero_sprite_30
+  - first:
+      213: 6380997084138412330
+    second: trompadero_sprite_31
+  - first:
+      213: 9031927889422507277
+    second: trompadero_sprite_32
+  - first:
+      213: 7197312458058883913
+    second: trompadero_sprite_33
+  - first:
+      213: -1449080630189329705
+    second: trompadero_sprite_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trompadero_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9d23bff1d8b744082b4b725f2958d1
+      internalID: -7060100677950891405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2150
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659fecf1fa8761c4091a162cbbc1b8c3
+      internalID: 1690890934226185852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2153
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d14f831e2b6c4c9aa2ec461b3013e
+      internalID: -8945480018801468139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2153
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb1a8e97658fe478a09aeb72dab64d
+      internalID: 1860501424771493751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3308eeac7aef064dbed1c538fc15b4e
+      internalID: -3086615002916967988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2152
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f94003913d0824685f043286ee85c4
+      internalID: -4929643542820638519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f3e59ac0ea314889f6ddbcee0f745
+      internalID: 5036884194916002755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2153
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6270386a920753148a3d4f7df3b11855
+      internalID: -6974481282388314387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2153
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f2c68e777eaa40b54837a878bfef9
+      internalID: 6727879204487642063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54772735353a6043a396bb235177ec8
+      internalID: 4577967501951540247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2153
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987121d6a459c5b4fba3e3c9a33cf2fe
+      internalID: -2294380096158822213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 2153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63418c0b47d3cf141ae727adba5cb768
+      internalID: 6157427037179755810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 2153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de426d637e3eb478a8ba9bea18feb9
+      internalID: -3883190923413671622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1473
+        width: 759
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a903a2732df7243a46f3830be3f0df
+      internalID: 3160654569082813812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2065
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd3466254f5754a899346ba28b4dac
+      internalID: -6112200184691070165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1474
+        width: 712
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d2dfc4b0eb884a9de60be6e89b38d
+      internalID: 3336446774537233162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1476
+        width: 738
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f2c612255de3438941a4e2275994c
+      internalID: -889411171353509986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 1432
+        width: 756
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcea59382cbc8d4eb041ee30c2afea0
+      internalID: -5127030954143623554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 5087
+        y: 1475
+        width: 677
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66a2f11d02e1e40a986cf449d729d3
+      internalID: 2016271128219566649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2039
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cbc291f21ae47429378a2d3e898776
+      internalID: -6595686941692497119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1866
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6851ffbb0452fd45a5082041cb248eb
+      internalID: -5830523150210904627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1682
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0cd45bb3d7764ca91052253d3a28a
+      internalID: -1832129630705569765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1602
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a9fb53057e0d4ea8966b545bc0621
+      internalID: 1412493046579642651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1446
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d82e191d8699a24295aa55116fca1d4
+      internalID: -5889821652178668150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1462
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b869da260d7b46b31294d60f62d92
+      internalID: 184131163271873686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 954
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d311f3410ae4fe45b130c08763bb70c
+      internalID: -7304601295174814596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 953
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba85811f9511c47ba5ca352a43b1c3
+      internalID: -831931296645608035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 954
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dd7a5af37a3324c92d76ee2f5a1167
+      internalID: -5115155212855440269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 937
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29790c5b707a4c4aa330d4b74761d98
+      internalID: 2891402699651531676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 5006
+        y: 936
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8f522db448f44abe092524274737f
+      internalID: -3137173283345444805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 151
+        width: 732
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c4039e7a34da4ab78196eaa07de6b
+      internalID: 3987414930429422219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 145
+        width: 829
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b1250e5b17546499c399dc78e4aaca
+      internalID: 6380997084138412330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 151
+        width: 732
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc38138a0a60c63418b2e1e6d2ee19f7
+      internalID: 9031927889422507277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 256
+        width: 679
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388625f915f7bb443bf36ffe26892920
+      internalID: 7197312458058883913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trompadero_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 256
+        width: 679
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68b825aa91c4c4bb0561b33888c265
+      internalID: -1449080630189329705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e9f90791787da14fb321fc86ccc1beb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
